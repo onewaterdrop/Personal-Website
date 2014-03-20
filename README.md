@@ -1,7 +1,7 @@
 Personal Website
 ================
 
-Personal Website template for woursler.com.
+Personal Website template for androidlets.com.
 
 License
 =======
