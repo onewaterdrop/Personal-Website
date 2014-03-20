@@ -1,7 +1,7 @@
 Personal Website
 ================
 
-Personal Website template for androidlets.com.
+Personal Website template for androidlets.com.  Intial template credits go to zomega@github.
 
 License
 =======
